@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(255, 255, 255);
+
+}
+
+.container {
+  text-align: center;
+
+
+}
+
+.input-image {
+  width: 240px;
+  border-radius: 6px;
+}
+
+.publish {
+  width: 240px;
+  border-radius: 6px;
+}
+
+.input-title {
+  width: 240px;
+  border-radius: 6px;
+}
+
+.App-logo {
+  height: 100px;
+  display: block;
+
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pdt img {
+  float: left;
+  border: 2px solid yellow;
+
+
+  margin-top: 15px;
+  ;
+  height: 200px;
+  width: 200px;
+  margin-left: 30px;
+
+}
+
+.pdt-text {
+  border: 2px solid black;
+  width: 100px;
+  float: left;
+}
+
+.pdt {
+
+  border: 2px solid red;
+  border-radius: 20px;
+  margin: auto;
+  width: 70%;
+  height: 240px;
+  margin-top: 10px;
+}
